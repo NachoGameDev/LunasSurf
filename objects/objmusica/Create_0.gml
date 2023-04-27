@@ -1,0 +1,2 @@
+introsongplayed = false;
+loopsongplayed = false;
